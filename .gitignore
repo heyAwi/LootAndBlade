@@ -1,2 +1,4 @@
-godot/
-*.tmp
+.import/
+*.md5
+*.stex
+*.import
